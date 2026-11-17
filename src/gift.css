@@ -1,0 +1,9 @@
+.gift-note {
+  margin: 28px 0 0 !important;
+  padding-top: 16px;
+  border-top: 1px solid #f0bd6559;
+  color: #f3d28d;
+  font-size: 13px !important;
+  font-style: italic;
+  letter-spacing: .4px;
+}
